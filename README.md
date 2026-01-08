@@ -26,17 +26,14 @@ This project allows users to play, scramble, and solve a Rubik’s Cube in real 
 - Three.js (WebGL)
 
 ---
-
 ## 📁 Project Structure
 
 Rubiks-Cube/
-│
-├── index.html
-├── main.js
-├── style.css
-└── README.md
+- index.html
+- main.js
+- style.css
+- README.md
 
----
 
 ## ▶ How to Run
 
